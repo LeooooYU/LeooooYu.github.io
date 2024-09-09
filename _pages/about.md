@@ -20,7 +20,7 @@ IGARSS 2023
 * [Joint Semantic-Geometric Learning for Polygonal Building Segmentation from High-Resolution Remote Sensing Images](https://www.sciencedirect.com/science/article/pii/S0924271623001272) \
 Weijia Li, Wenqian Zhao, **Jinhua Yu**, Juepeng Zheng, Conghui He, Haohuan Fu, Dahua Lin \
 ISPRS Journal of Photogrammetry and Remote Sensing 2023 
-* [Cross-view image geo-localization with Panorama-BEV Co-Retrieval Network](https://arxiv.org/abs/2408.05475)
+* [Cross-view image geo-localization with Panorama-BEV Co-Retrieval Network](https://arxiv.org/abs/2408.05475) \
 Junyan Ye, Zhutao Lv, Weijia Li, **Jinhua Yu**, Haote Yang, Huaping Zhong, Conghui He \
 ECCV 2024 
 * [RoadCorrector: A Structure-aware Road Extraction Method for Road Connectivity and Topology Correction](https://ieeexplore.ieee.org/abstract/document/10478083) \
