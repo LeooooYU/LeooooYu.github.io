@@ -47,6 +47,3 @@ September 2018 to June 2022
 **MS in Resources and Environment, School of Geospatial Engineering and Science** \
 September 2022 - present
 
-Intern & Work Experience
-------
-
