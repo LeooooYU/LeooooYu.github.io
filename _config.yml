@@ -8,12 +8,12 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Jinhua Yu / Site Title"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Jinhua Yu"
+# description              : &description "personal description"
 url                      : https://LeooooYu.gitbub.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+# baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -24,7 +24,7 @@ author:
   avatar           : "personal.png"
   name             : "Jinhua Yu"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Sun Yat-sen University"
   location         : "Zhuhai, Guangdong, China"
   employer         : "Sun Yat-sen University"
   uri              : #
