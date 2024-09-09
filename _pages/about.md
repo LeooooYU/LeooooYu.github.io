@@ -34,9 +34,9 @@ CVPR 2023
 Preprints
 ======
 * [Fine-Grained Building Function Recognition from Street-View Images via Geometry-Aware Semi-Supervised Learning](https://arxiv.org/abs/2408.09460) \
-Weijia Li#, **Jinhua Yu#**, Dairong Chen, Yi Lin, Runmin Dong, Xiang Zhang, Conghui He, Haohuan Fu \
+Weijia Li#, **Jinhua Yu#**, Dairong Chen, Yi Lin, Runmin Dong, Xiang Zhang, Conghui He, Haohuan Fu 
 * [SkyDiffusion: Street-to-Satellite Image Synthesis with Diffusion Models and BEV Paradigm](https://arxiv.org/abs/2408.01812) \
-Junyan Ye, Jun He, Weijia Li, Zhutao Lv, **Jinhua Yu**, Haote Yang, Conghui He \
+Junyan Ye, Jun He, Weijia Li, Zhutao Lv, **Jinhua Yu**, Haote Yang, Conghui He 
 
 Education
 ------
