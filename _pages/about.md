@@ -30,13 +30,15 @@ IEEE Transactions on Geoscience and Remote Sensing 2024
 Weijia Li, Yawen Lai, Linning Xu, Yuanbo Xiangli, **Jinhua Yu**, Conghui He, Gui-Song Xia, Dahua Lin \
 CVPR 2023 
 
-
 Preprints
 ======
 * [Fine-Grained Building Function Recognition from Street-View Images via Geometry-Aware Semi-Supervised Learning](https://arxiv.org/abs/2408.09460) \
 Weijia Li#, **Jinhua Yu#**, Dairong Chen, Yi Lin, Runmin Dong, Xiang Zhang, Conghui He, Haohuan Fu 
 * [SkyDiffusion: Street-to-Satellite Image Synthesis with Diffusion Models and BEV Paradigm](https://arxiv.org/abs/2408.01812) \
-Junyan Ye, Jun He, Weijia Li, Zhutao Lv, **Jinhua Yu**, Haote Yang, Conghui He 
+Junyan Ye, Jun He, Weijia Li, Zhutao Lv, **Jinhua Yu**, Haote Yang, Conghui He
+* [UrBench: A Comprehensive Benchmark for Evaluating Large Multimodal Models in Multi-View Urban Scenarios](https://arxiv.org/abs/2408.17267) \
+Baichuan Zhou, Haote Yang, Dairong Chen, Junyan Ye, Tianyi Bai, **Jinhua Yu**, Songyang Zhang, Dahua Lin, Conghui He, Weijia Li
+
 
 Education
 ------
@@ -46,4 +48,13 @@ September 2018 to June 2022
 * **Sun Yat-Sen University, Zhuhai, China** \
 **MS in Resources and Environment, School of Geospatial Engineering and Science** \
 September 2022 - present
+
+Intern & Work Experience
+------
+* **Sangfor Technologies Inc., ShenZhen, China** \
+May 2024 to Present \
+**Project:** \
+Research on Multimodal Large Model Technology, Core member.
+
+
 
