@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently pursuing the M.S. degree with the School of Geospatial Engineering and Science, Sun Yat-sen University, Zhuhai, China supervised by [Associate Professor Weijia Li](https://liweijia.github.io/). My research interests include remote sensing image understanding, computer vision, and deep learning. Prior to this, I received a B.S. degree in geomatics engineering from the Nanjing University of Posts and Telecommunications, Nanjing, China, in 2022.
+I am currently pursuing a M.S. degree at the School of Geospatial Engineering and Science, Sun Yat-sen University, Zhuhai, China, under the supervision of [Associate Professor Weijia Li](https://liweijia.github.io/). My research interests include remote sensing image understanding, computer vision, and deep learning. Prior to this, I received a B.S. degree in geomatics engineering from the Nanjing University of Posts and Telecommunications, Nanjing, China, in 2022.
 
 Publications
 ======
