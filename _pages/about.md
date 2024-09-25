@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently pursuing a M.S. degree at the School of Geospatial Engineering and Science, Sun Yat-sen University, Zhuhai, China, under the supervision of [Associate Professor Weijia Li](https://liweijia.github.io/). 
-I have been engaged in research on remote sensing and artificial intelligence methods in large-scale urban built environments for a long time, dedicated to providing scientific support for the in-depth analysis of urban ecosystems, urban planning, spatial layout, and other aspects of urban scenes using artificial intelligence technologies.
+I am currently pursuing a M.S. degree at the School of Geospatial Engineering and Science, Sun Yat-sen University, Zhuhai, China, under the supervision of [Associate Professor Weijia Li](https://liweijia.github.io/). I have been engaged in research on remote sensing and artificial intelligence methods in large-scale urban built environments for a long time, dedicated to providing scientific support for the in-depth analysis of urban ecosystems, urban planning, spatial layout, and other aspects of urban scenes using artificial intelligence technologies.
 Prior to this, I received a B.S. degree in geomatics engineering from the Nanjing University of Posts and Telecommunications, Nanjing, China, in 2022.
 
 Publications
