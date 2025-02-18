@@ -12,6 +12,9 @@ Prior to this, I received a B.S. degree in geomatics engineering from the Nanjin
 
 Publications
 ======
+* [Fine-Grained Building Function Recognition with Street-View Images and GIS Map Data via Geometry-Aware Semi-Supervised Learning](https://arxiv.org/abs/2408.09460) \
+Weijia Li#, **Jinhua Yu#**, Dairong Chen, Yi Lin, Runmin Dong, Xiang Zhang, Conghui He, Haohuan Fu \
+International Journal of Applied Earth Observation and Geoinformation 2025
 * [SG-BEV: Satellite-Guided BEV Fusion for Cross-View Semantic Segmentation](https://openaccess.thecvf.com/content/CVPR2024/html/Ye_SG-BEV_Satellite-Guided_BEV_Fusion_for_Cross-View_Semantic_Segmentation_CVPR_2024_paper.html) \
 Junyan Ye, Qiyan Luo, **Jinhua Yu**, Huaping Zhong, Zhimeng Zheng, Conghui He, Weijia Li \
 CVPR (Hightlight) 2024 
@@ -29,17 +32,15 @@ Jinpeng Li, Jun He, Weijia Li, Jiabin Chen, **Jinhua Yu** \
 IEEE Transactions on Geoscience and Remote Sensing 2024 
 * [OmniCity: Omnipotent City Understanding with Multi-level and Multi-view Images](https://openaccess.thecvf.com/content/CVPR2023/html/Li_OmniCity_Omnipotent_City_Understanding_With_Multi-Level_and_Multi-View_Images_CVPR_2023_paper.html) \
 Weijia Li, Yawen Lai, Linning Xu, Yuanbo Xiangli, **Jinhua Yu**, Conghui He, Gui-Song Xia, Dahua Lin \
-CVPR 2023 
+CVPR 2023
+* [UrBench: A Comprehensive Benchmark for Evaluating Large Multimodal Models in Multi-View Urban Scenarios](https://arxiv.org/abs/2408.17267) \
+Baichuan Zhou, Haote Yang, Dairong Chen, Junyan Ye, Tianyi Bai, **Jinhua Yu**, Songyang Zhang, Dahua Lin, Conghui He, Weijia Li \
+AAAI 2024
 
 Preprints
 ======
-* [Fine-Grained Building Function Recognition from Street-View Images via Geometry-Aware Semi-Supervised Learning](https://arxiv.org/abs/2408.09460) \
-Weijia Li#, **Jinhua Yu#**, Dairong Chen, Yi Lin, Runmin Dong, Xiang Zhang, Conghui He, Haohuan Fu 
 * [SkyDiffusion: Street-to-Satellite Image Synthesis with Diffusion Models and BEV Paradigm](https://arxiv.org/abs/2408.01812) \
 Junyan Ye, Jun He, Weijia Li, Zhutao Lv, **Jinhua Yu**, Haote Yang, Conghui He
-* [UrBench: A Comprehensive Benchmark for Evaluating Large Multimodal Models in Multi-View Urban Scenarios](https://arxiv.org/abs/2408.17267) \
-Baichuan Zhou, Haote Yang, Dairong Chen, Junyan Ye, Tianyi Bai, **Jinhua Yu**, Songyang Zhang, Dahua Lin, Conghui He, Weijia Li
-
 
 Education
 ------
