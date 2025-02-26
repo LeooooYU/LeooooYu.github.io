@@ -12,7 +12,7 @@ Prior to this, I received a B.S. degree in geomatics engineering from the Nanjin
 
 Publications
 ======
-* [Fine-Grained Building Function Recognition with Street-View Images and GIS Map Data via Geometry-Aware Semi-Supervised Learning](https://arxiv.org/abs/2408.09460) \
+* [Fine-Grained Building Function Recognition with Street-View Images and GIS Map Data via Geometry-Aware Semi-Supervised Learning](https://www.sciencedirect.com/science/article/pii/S1569843225000330) \
 Weijia Li#, **Jinhua Yu#**, Dairong Chen, Yi Lin, Runmin Dong, Xiang Zhang, Conghui He, Haohuan Fu \
 International Journal of Applied Earth Observation and Geoinformation 2025
 * [SG-BEV: Satellite-Guided BEV Fusion for Cross-View Semantic Segmentation](https://openaccess.thecvf.com/content/CVPR2024/html/Ye_SG-BEV_Satellite-Guided_BEV_Fusion_for_Cross-View_Semantic_Segmentation_CVPR_2024_paper.html) \
