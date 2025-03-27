@@ -35,7 +35,7 @@ Weijia Li, Yawen Lai, Linning Xu, Yuanbo Xiangli, **Jinhua Yu**, Conghui He, Gui
 CVPR 2023
 * [UrBench: A Comprehensive Benchmark for Evaluating Large Multimodal Models in Multi-View Urban Scenarios](https://arxiv.org/abs/2408.17267) \
 Baichuan Zhou, Haote Yang, Dairong Chen, Junyan Ye, Tianyi Bai, **Jinhua Yu**, Songyang Zhang, Dahua Lin, Conghui He, Weijia Li \
-AAAI 2024
+AAAI 2025
 
 Preprints
 ======
