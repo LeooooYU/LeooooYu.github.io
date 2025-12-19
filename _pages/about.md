@@ -51,10 +51,10 @@ ICCV 2025
 
 Publications
 ======
-*[Earth-agent: Unlocking the full landscape of earth observation with agents](https://arxiv.org/abs/2509.23141) \
+* [Earth-agent: Unlocking the full landscape of earth observation with agents](https://arxiv.org/abs/2509.23141) \
 Peilin Feng, Zhutao Lv, Junyan Ye, Xiaolei Wang, Xinjie Huo, **Jinhua Yu**, Wanghan Xu, Wenlong Zhang, Lei Bai, Conghui He, Weijia Li \
 ArXiv
-*[Echo-4o: Harnessing the Power of GPT-4o Synthetic Images for Improved Image Generation](https://arxiv.org/abs/2508.09987) \
+* [Echo-4o: Harnessing the Power of GPT-4o Synthetic Images for Improved Image Generation](https://arxiv.org/abs/2508.09987) \
 Junyan Ye, Dongzhi Jiang, Zihao Wang, Leqi Zhu, Zhenghao Hu, Zilong Huang, Jun He, Zhiyuan Yan, **Jinghua Yu**, Hongsheng Li, Conghui He, Weijia Li \
 ArXiv
 
