@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently pursuing a Ph.D. degree at the School of Geography and Planning, Sun Yat-sen University, China, under the supervision of Associate Professor Guangzhao Chen.
+I am currently pursuing a Ph.D. degree at the School of Geography and Planning, Sun Yat-sen University, China, under the supervision of **Associate Professor Guangzhao Chen**.
 
 My research focuses on urban remote sensing and artificial intelligence, with particular emphasis on large-scale and fine-grained analysis of urban built environments. I am interested in developing AI-driven methods to support urban ecosystem analysis, urban planning, and spatial structure understanding through multi-source geospatial data.
 
